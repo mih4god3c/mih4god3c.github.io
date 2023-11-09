@@ -1,0 +1,140 @@
+{
+    "pomurska": {
+        "title": "Pomurska regija",
+        "population": "114.238",
+        "area": "1.336 km2",
+        "average_age": 46.1,
+        "municipalities": "27",
+        "avg_salary": 1364,
+        "num_students":29,
+        "num_flats":425,
+        "flat_size": 90.1
+    },
+    "koroska": {
+        "title": "Koroška regija",
+        "population": "70.755",
+        "area": "1.041 km2",
+        "average_age": 44.8,
+        "municipalities": "12",
+        "avg_salary": 1457,
+        "num_students":35,
+        "num_flats":387,
+        "flat_size": 88.0
+    },
+    "savinjska": {
+        "title": "Savinjska regija",
+        "population": "263.322",
+        "area": "2.384 km2",
+        "average_age": 43.8,
+        "municipalities": "31",
+        "avg_salary": 1380,
+        "num_students": 36,
+        "num_flats": 399,
+        "flat_size": 81.5
+    },
+    "podravska": {
+        "title": "Podravska regija",
+        "population": "325.994",
+        "area": "2.170 km2",
+        "average_age": 44.5,
+        "municipalities": "41",
+        "avg_salary": 1408,
+        "num_students": 32,
+        "num_flats": 426,
+        "flat_size": 82.3
+
+    },
+    "jugovzhodna": {
+        "title": "Jugovzhodna Slovenija",
+        "population": "145.357",
+        "area": "2.675 km2",
+        "average_age": 43,
+        "municipalities": "21",
+        "avg_salary": 1428,
+        "num_students": 36,
+        "num_flats": 398,
+        "flat_size": 88
+
+    },
+    "osrednjeslovenska": {
+        "title": "Osrednjeslovenska regija",
+        "population": "570.773",
+        "area": "2.555 km2",
+        "average_age": 42.2,
+        "municipalities": "25",
+        "avg_salary": 1400,
+        "num_students": 45,
+        "num_flats": 377,
+        "flat_size": 80.5
+
+    },
+    "gorenjska": {
+        "title": "Gorenjska regija",
+        "population": "206.621",
+        "area": "2.137 km2",
+        "average_age": 43.3,
+        "municipalities": "18",
+        "avg_salary": 1458,
+        "num_students": 36,
+        "num_flats": 385,
+        "flat_size": 86.9
+    },
+    "notranjska": {
+        "title": "Primorsko-notranjska regija",
+        "population": "52.841",
+        "area": "1.456 km2",
+        "average_age": 44.3,
+        "municipalities": "6",
+        "avg_salary": 1369,
+        "num_students": 34,
+        "num_flats": 418,
+        "flat_size": 88.2
+
+    },
+    "obalnokraska": {
+        "title": "Obalno-kraška regija",
+        "population": "118.494",
+        "area": "1.044 km2",
+        "average_age": 45.1,
+        "municipalities": "8",
+        "avg_salary": 1359,
+        "num_students": 32,
+        "num_flats": 472,
+        "flat_size": 87.4
+    },
+    "goriska": {
+        "title": "Goriška regija",
+        "population": "118.041",
+        "area": "2.325 km2",
+        "average_age": 45.3,
+        "municipalities": "13",
+        "avg_salary": 1356,
+        "num_students": 38,
+        "num_flats": 431,
+        "flat_size": 88.5
+
+    },
+    "posavska": {
+        "title": "Posavska regija",
+        "population": "70.349",
+        "area": "885 km2",
+        "average_age": 44.5,
+        "municipalities": "6",
+        "avg_salary": 1445,
+        "num_students": 35,
+        "num_flats": 420,
+        "flat_size": 84.6
+
+    },
+    "zasavska": {
+        "title": "Zasavska regija",
+        "population": "57.050",
+        "area": "485 km2",
+        "average_age": 44.8,
+        "municipalities": "4",
+        "avg_salary": 1368,
+        "num_students": 33,
+        "num_flats": 420,
+        "flat_size": 72.6
+    }
+}
